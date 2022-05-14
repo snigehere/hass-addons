@@ -15,7 +15,7 @@ By default this addon assumes the official Mosquitto addon is installed in which
 
 For the addon to function you need to provide the following information relating to your Glow account:
 
-* `glow_device_id`: This is your CAD hardware ID (e.g. A8980AB7AB04)
+* `glow_device_id`: This is your CAD hardware ID (e.g. A8980AB7AB04) which you can  find in the devices section of your bright app and is case sensitive
 * `glow_username`: The username associated with your Glow account (also used to login to the Bright app)
 * `glow_password`: The password associated with your Glow account (also used to login to the Bright app)
 
